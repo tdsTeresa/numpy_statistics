@@ -1,0 +1,1 @@
+En esta actividad realicé un análisis básico con arrays de Numpy y la función Mean de Statistics para un dataset del promedio de estaturas de la población en 2022, donde se resumen los datos de todos los países y los datos de México. El dataset ha sido extraído de Kaggle.
